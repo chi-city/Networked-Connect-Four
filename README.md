@@ -1,6 +1,4 @@
 # Networked-Connect-Four
-# Project 3 
-# Fall 2022, CS342 - Software Design
 
 This project implements the classic game of Connect Four.
 
